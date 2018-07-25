@@ -6,8 +6,8 @@ app = Flask(__name__)
 users = [
 	{
 		'id': 1,
-		'name': u'My Nguyen',
-		'email': u'my.nguyen@example.com'
+		'name': u'John Doe',
+		'email': u'john.doe@example.com'
 	},
 	{
 		'id': 2,
